@@ -14,7 +14,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -32,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor - Blog preview card solution](https://your-solution-url.com)
-- Live Site URL: [Frontend Mentor - Blog preview card solution](https://lynaifr.github.io/blog-preview-card-main/)
+- Live Site URL: [Frontend Mentor - Blog preview card solution](https://lynaifr.github.io/blog-preview-card/)
 
 ## My process
 
@@ -69,5 +68,5 @@ I still need to focus on the different HTML5 tags and what CSS styles go with it
 
 ## Author
 
-- Website - [Lyna](https://lynaifr.github.io/blog-preview-card-main/)
+- Website - [Lyna](https://lynaifr.github.io/blog-preview-card/)
 - Frontend Mentor - [@lynaIFR](https://www.frontendmentor.io/profile/lynaIFR)
