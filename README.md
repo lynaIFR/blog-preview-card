@@ -70,4 +70,4 @@ I still need to focus on the different HTML5 tags and what CSS styles go with it
 ## Author
 
 - Website - [Lyna](https://lynaifr.github.io/blog-preview-card-main/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@lynaIFR](https://www.frontendmentor.io/profile/lynaIFR)
