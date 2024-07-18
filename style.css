@@ -1,12 +1,17 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     font-family: 'figtree';
     line-height: 1.5;
 }
 
 body{
     background-color: #f4d04e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 p{
@@ -18,14 +23,14 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+
 }
 
 .card{
-    width: auto;
-    max-width: 20rem;
-    height: auto;
-    margin: auto;
+    /*width: auto;*/
+    max-width: 80%;
+    
+    margin-inline: auto;
     padding: 1.5rem;
     display: flex;
     flex-direction: column;
@@ -41,7 +46,7 @@ img{
     border-radius: 0.5rem;
 }
 
-#learning span{
+.learning span{
     background-color: #f4d04e;
     padding: 0.5rem;
     display: inline;
@@ -58,7 +63,7 @@ h2>a:hover{
     color: #f4d04e;
 }
 
-#description{
+.description{
     color: #808080;
 }
 
@@ -74,7 +79,7 @@ h2>a:hover{
     height: 32px;
 }
 
-#author{
+.author{
     font-weight: bold;
 }
 
@@ -90,4 +95,11 @@ footer{
 
 .attribution a{
      color: #3752be; 
+}
+
+@media only screen and (min-width: 375px){
+    .card{
+        max-width: 100%;
+        margin-inline: unset;
+    }
 }
