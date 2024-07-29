@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor - Blog preview card solution](https://your-solution-url.com)
-- Live Site URL: [Frontend Mentor - Blog preview card solution](https://lynaifr.github.io/blog-preview-card-main/)
+- Solution URL: [Frontend Mentor - Blog preview card solution](https://www.frontendmentor.io/solutions/blog-preview-card--LewEJe26D)
+- Live Site URL: (https://lynaifr.github.io/blog-preview-card-main/)
 
 ## My process
 
@@ -70,4 +70,4 @@ I still need to focus on the different HTML5 tags and what CSS styles go with it
 ## Author
 
 - Website - [Lyna](https://lynaifr.github.io/blog-preview-card-main/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@lynaIFR](https://www.frontendmentor.io/profile/lynaIFR)
